@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exasubs</title>
+    <link>https://exa.github.io/</link>
+    <description>Recent content on Exasubs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 08:22:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://exa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mobile Suit Gundam Twilight Axis - 01</title>
+      <link>https://exa.github.io/post/mobile-suit-gundam-twilight-axis-01/</link>
+      <pubDate>Mon, 12 Jun 2017 08:22:20 +0800</pubDate>
+      
+      <guid>https://exa.github.io/post/mobile-suit-gundam-twilight-axis-01/</guid>
+      <description>Musim ini garap takarir kartun mecha lagi padahal yang kemarin aja blom kelar(lol). Serial Gundam Twilight Axis ini sendiri diadaptasi dari novel dan timeline-nya masih sekitaran UC, kira-kira 6 bulan sesudah Gundam Unicorn. Seri ini rada menarik karena karakter cewek yang jarang-jarang dapat peran jadi tokoh utama yang notabene kebanyakan adaptasi kartun gundam sunrise tokoh ceweknya cuma mentok jadi karakter pendukung. Yah, mudah-mudah sih adaptasinya gak mengecewakan kayak seri barbatos kemarin yang deadflag-nya kebanyakan dan bikin rage doang.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Kami</title>
+      <link>https://exa.github.io/about/</link>
+      <pubDate>Mon, 12 Jun 2017 07:57:12 +0800</pubDate>
+      
+      <guid>https://exa.github.io/about/</guid>
+      <description>Exasubs adalah fansub yang berdiri pada tanggal 29 April 2014.</description>
+    </item>
+    
+  </channel>
+</rss>
